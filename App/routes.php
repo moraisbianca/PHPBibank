@@ -10,6 +10,6 @@ switch($parse_uri) {
     break;
     
     default:
-        header("Location: /");
+        header("Location: /home");
 break;
 }
